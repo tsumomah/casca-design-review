@@ -1,0 +1,13 @@
+{
+  "name": "casca-design-review",
+  "displayName": "CASCA Design Review",
+  "version": "1.0.0",
+  "description": "UI/UX の提出前レビューと、画面設計の判断の進め方。状態の抜け・アクセシビリティの数値・言葉・一貫性・AI 画面の作法を、見つけた欠陥と直し方の形で返す。",
+  "author": {
+    "name": "CASCA"
+  },
+  "homepage": "https://github.com/tsumomah/casca-design-review",
+  "repository": "https://github.com/tsumomah/casca-design-review",
+  "license": "MIT",
+  "keywords": ["ui", "ux", "design-review", "accessibility", "ux-writing", "design"]
+}

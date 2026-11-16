@@ -1,0 +1,16 @@
+{
+  "name": "casca-design-review",
+  "owner": {
+    "name": "CASCA"
+  },
+  "metadata": {
+    "description": "CASCA の UI/UX レビューと画面設計のスキル"
+  },
+  "plugins": [
+    {
+      "name": "casca-design-review",
+      "source": "./",
+      "description": "UI/UX の提出前レビューと、画面設計の判断の進め方。"
+    }
+  ]
+}
